@@ -39,7 +39,7 @@ I work at the intersection of **development velocity** and **operational stabili
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Portfolio Application
 
